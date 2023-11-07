@@ -50,9 +50,6 @@ Please ensure that you have configured your server's security settings, includin
 ## Contributing
 Contributions to this project are welcome! Please fork the repository and submit a pull request with your improvements.
 
-## License
-This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
-
 ## Acknowledgements
 - Thanks to the Ansible community for providing excellent documentation and resources.
 - This project was created as part of a learning exercise for automating server setups.
