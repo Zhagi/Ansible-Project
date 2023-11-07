@@ -8,7 +8,7 @@ This repository is part of an Ansible learning exercise designed to automate the
 ## Project Description
 The included Ansible playbook (`web_server_setup.yml`) performs the following actions:
 - **Update package manager cache**: Ensures the package list is up to date before installing any new packages.
-- **Install Apache**: Installs the Apache web server package.
+- **Install Apache**: Installs the Apache web server package (apache2).
 - **Start Apache service**: Ensures the Apache service is enabled to start on boot and is running.
 - **Deploy custom HTML page**: Places a simple `index.html` file in the web server's document root (`/var/www/html`) that displays "Hello, Ansible!".
 
