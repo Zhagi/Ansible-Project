@@ -3,7 +3,7 @@
 ## Overview
 This repository is part of an Ansible learning exercise designed to automate the process of configuring a web server on a remote Ubuntu machine. The primary focus is to apply basic Ansible concepts to perform common server setup tasks.
 
-![Ansible Setup & Workflow Architecture](images/Ansible_Setup_Workflow_Architecture.png)
+![Ansible Setup & Workflow Architecture](https://github.com/Zhagi/Ansible-Project/blob/main/Images/Ansible%20Setup%20&%20Workflow%20Architecture.png?raw=true)
 
 ## Project Description
 The included Ansible playbook (`web_server_setup.yml`) performs the following actions:
@@ -15,20 +15,20 @@ The included Ansible playbook (`web_server_setup.yml`) performs the following ac
 ## Infrastructure Setup
 The infrastructure for this project is set up on AWS. Below is the summary of the EC2 instance used for the web server.
 
-![EC2 Instance Summary](images/EC2_instance_summary.png)
+![EC2 Instance Summary](https://github.com/Zhagi/Ansible-Project/blob/main/Images/EC2%20instance%20summary.png?raw=true)
 
 The AMI used for the EC2 instance is Ubuntu, as shown below:
 
-![Ubuntu AMI Used](images/Ubuntu_AMI_used.png)
+![Ubuntu AMI Used](https://github.com/Zhagi/Ansible-Project/blob/main/Images/Ubuntu%20AMI%20used.png?raw=true)
 
 ## Execution Results
 After running the Ansible playbook, the following tasks were completed successfully, as shown in the terminal output:
 
-![Terminal Output Showing Completed Tasks](images/Terminal_output_showing_completed_tasks.png)
+![Terminal Output Showing Completed Tasks](https://github.com/Zhagi/Ansible-Project/blob/main/Images/Terminal%20output%20showing%20completed%20tasks.png?raw=true)
 
 The resulting web server is accessible through the browser:
 
-![Web Server Running](images/Web_server_running.png)
+![Web Server Running](https://github.com/Zhagi/Ansible-Project/blob/main/Images/Web%20server%20running.png?raw=true)
 
 ## Prerequisites
 - An Ubuntu server with SSH access.
@@ -56,8 +56,3 @@ This project is licensed under the [MIT License](LICENSE) - see the LICENSE file
 ## Acknowledgements
 - Thanks to the Ansible community for providing excellent documentation and resources.
 - This project was created as part of a learning exercise for automating server setups.
-
-
-
-
-![Diagram]
