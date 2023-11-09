@@ -51,5 +51,6 @@ Please ensure that you have configured your server's security settings, includin
 Contributions to this project are welcome! Please fork the repository and submit a pull request with your improvements.
 
 ## Acknowledgements
-- Thanks to the Ansible community for providing excellent documentation and resources.
-- This project was created as part of a learning exercise for automating server setups.
+- This project is part of a comprehensive exercise aimed at mastering the automation of server configurations. You can explore this project along with others at [moabukar/tech-vault](https://github.com/moabukar/tech-vault).
+- Special thanks to [moabukar](https://github.com/moabukar) for presenting numerous challenges and providing valuable resources that contribute significantly to the development of DevOps professionals.
+
