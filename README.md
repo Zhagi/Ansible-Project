@@ -52,5 +52,5 @@ Contributions to this project are welcome! Please fork the repository and submit
 
 ## Acknowledgements
 - This project is part of a comprehensive exercise aimed at mastering the automation of server configurations. You can explore this project along with others at [moabukar/tech-vault](https://github.com/moabukar/tech-vault).
-- Special thanks to [moabukar](https://github.com/moabukar) for presenting numerous challenges and providing valuable resources that contribute significantly to the development of tech engineers.
+
 
